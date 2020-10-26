@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "Localhost",
+  "port": "5432",
+  "username": "postgres",
+  "password": "",
+  "database": "quiz",
+  "synchronize": true,
+  "logging": true,
+  "entities": ["./dist/**/*.entity{.ts,.js}"]
+}
