@@ -1,5 +1,5 @@
 # nestjs-typeorm-api
-API created with Nest.js and TypeORM.
+A RESTful API boilerplate made with Nest.js and TypeORM.
 
 ## Installation
 
